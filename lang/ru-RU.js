@@ -1,0 +1,15 @@
+export default {
+  Cancel: 'Отмена',
+  EditPoolAccount: 'Редактировать пул аккаунт',
+  Guest: 'Гость',
+  Home: 'Главная',
+  LoadingPleaseWait: 'Загрузка... Пожалуйста, подождите',
+  NewPoolAccount: 'Создать новый',
+  PoolAccounts: 'Аккаунты пулов',
+  Save: 'Сохранить',
+  UnderConstruction: 'Тут скоро что-то будет',
+  Welcome: 'Добро пожаловать, {username}',
+  WorkerName: '',
+  Income24h: 'Прибыль за 24 часа',
+  Avg10mHashRate: 'Средний хешрэйт за 10 минут',
+};
